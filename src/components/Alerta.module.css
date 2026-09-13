@@ -2,13 +2,12 @@
   padding: 1rem;
   border-radius: 8px;
   color: white;
-  max-width: 340px;
-  margin-top: 0.75rem;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  line-height: 1.5;
+  max-width: 300px;
+  margin-top: 1rem;
 }
-.alertaCard svg { flex-shrink: 0; }
-.sucesso { background-color: #15803d; }
-.erro { background-color: #b91c1c; }
+.sucesso {
+  background-color: #16A34A;
+}
+.erro {
+  background-color: #DC2626;
+}
